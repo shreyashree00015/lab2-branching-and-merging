@@ -16,7 +16,7 @@ public class DataTypesTest {
         // Note: You can use _ to help make it easier to
         //       read large numbers, as is done below.
         long x = 500_000_500_000L;
-        int[] numbers = new int[1_000_000];
+        long[] numbers = new long[1_000_000];
         for (int i = 1; i <= 1_000_000; i++) {
             numbers[i-1] = i;
         }
