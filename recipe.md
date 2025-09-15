@@ -6,12 +6,16 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
-- ...
+- 1 tsp instant coffee
+- A bag of whipped cream maybe?
+- Some fruits
 
 ## Instructions:
 1. Preheat the oven to 375°F (190°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
-3. ...
+3. Add chocolate chips and vanilla extract and mix.
+4. Put the bowl into the oven for 40 minutes.
+5. Take the bowl out and add whipped cream and fruits on top.
 
 ## Additional Directions by Bob:
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavour.
