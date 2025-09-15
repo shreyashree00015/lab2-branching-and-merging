@@ -67,13 +67,13 @@ You should now see the changes that you made are now in the `main` branch.
 
 ---
 
-- [ ] Now, we'll want to clean up since we are done with our `task_1` branch.
+- [X] Now, we'll want to clean up since we are done with our `task_1` branch.
   - IntelliJ: `Git -> branches... -> task_1 -> Delete`
   - Terminal: `git branch -d task_1`
 
 ---
 
-- [] Last step! We'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
+- [x] Last step! We'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
   - we suggest you check off this last item, commit that change, and then push your code.
     Check GitHub to ensure you can see your changes.
 
@@ -97,7 +97,7 @@ on their own branch.
 
 You'll notice that your repository already has two branches called `alice` and `bob`.
 
-- [ ] Checkout the `alice` branch.
+- [x] Checkout the `alice` branch.
 
 - [x] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
   - You will be prompted to resolve a merge conflict. To do this, you will need to pick and choose which
